@@ -86,3 +86,9 @@ Processingを学ぶための練習用教材です
 - Math.tan などの関数を知ろう
   - https://processing.org/reference/ を使ってみる
 
+## 参考になるサイト
+
+- https://cocopon.me/blog/2019/04/zero-pde/
+  - 非常にいい内容が揃っている、自学におすすめ
+- https://processing.org/reference/
+  - 公式リファレンス。 翻訳ツールを使ってもいいから、公式の情報を読めるようになっておこう
