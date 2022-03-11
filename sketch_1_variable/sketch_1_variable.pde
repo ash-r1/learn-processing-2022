@@ -1,8 +1,7 @@
-static int edgeSize = 600;
 int radius = 10;
 
 void setup(){
-  size(edgeSize, edgeSize);
+  size(600, 600);
 }
 
 void draw(){

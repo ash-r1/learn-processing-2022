@@ -1,4 +1,4 @@
-static int edgeSize = 600;
+int edgeSize = 600;
 
 void setup(){
   size(600, 600);

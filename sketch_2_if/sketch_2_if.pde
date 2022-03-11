@@ -1,5 +1,5 @@
-int radius = 10;
-static int edgeSize = 600;
+int radius = 290;
+int edgeSize = 600;
 boolean expanding = true;
 
 void setup(){
