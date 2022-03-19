@@ -195,12 +195,31 @@ Processingを通してプログラミングを学ぶための練習用教材で�
 - 発展課題: 今回の `class Circle` と同じような挙動をする「三角形」`class Triangle` をつくる (9からの継続課題)
   - 11の内容に関連してきます(予定)
 
-## 11. 継承とコンポジション
+## 11. インタフェース
 
-TODO:
+### 目標
 
-※やる予定のこと:
+- `interface` 構文を理解する
+  - `interface` , `implements` をリファレンスで調べて理解する
+  - processingの例がわかりにくければ Java の資料を探してもOK
+- interfaceの配列を使うことによる抽象化を理解する
 
-- Shapeクラスを導入し、Shapeを継承した Circle, Triangle, Square クラスを作成する
-- 前回のふわふわ浮かぶ動きを FloatingMove クラスとして切り出す。 FloatingMoveはShapeを持つ
-- さまざまな図形がふわふわ浮かぶ
+### やってみて欲しいこと
+
+- Squareの派生で正三角形の「Triangle」を追加する
+
+## 12. コンポジション
+
+### 目標
+
+- `interface` 構文を理解する
+  - `interface` , `implements` をリファレンスで調べて理解する
+  - processingの例がわかりにくければ Java の資料を探してもOK
+- interfaceの配列を使うことによる抽象化を理解する
+
+### やってみて欲しいこと
+
+- 超発展課題
+  - `FloatingMove` の動き処理を `interface Move` として抽象化する
+  - 異なる動きをするMove系のクラスを追加し、いろんな動きを実現する
+
